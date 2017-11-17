@@ -29,7 +29,7 @@ We will create an **Azure Container Registry** to store the images generated dur
 
 1. Click on **Deploy to Azure** to spin up **Azure Container Registry** and **Azure Web App**.
 
-   <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2FVSTS-DevOps-Labs%2Fdocker%2Fdocker%2Ftemplates%2Fazuredeploy.json" target="_blank">
+   <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkarthik-nagaraj%2Ftest%2Fmaster%2Fdocker%2Ftemplates%2Fazuredeploy.json" target="_blank">
 
     <img src="http://azuredeploy.net/deploybutton.png"/>
     </a> 
